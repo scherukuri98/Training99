@@ -1,0 +1,1675 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/9AF4650C/HTML+Tutorial+-+Introductory+Level.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"HTML+Tutorial+-+Introductory+Level_files/file=
+list.xml">
+<title>HTML Tutorial - Introductory Level</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>scherukuri</o:Author>
+  <o:LastAuthor>scherukuri</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2013-12-02T13:19:00Z</o:Created>
+  <o:LastSaved>2013-12-02T13:19:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>3257</o:Words>
+  <o:Characters>18571</o:Characters>
+  <o:Company>NHS Tayside</o:Company>
+  <o:Lines>154</o:Lines>
+  <o:Paragraphs>43</o:Paragraphs>
+  <o:CharactersWithSpaces>21785</o:CharactersWithSpaces>
+  <o:Version>11.6568</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h3
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h4
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+code
+	{font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+pre
+	{margin-top:0cm;
+	margin-bottom:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+samp
+	{font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+p.bodytext, li.bodytext, div.bodytext
+	{mso-style-name:bodytext;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.stepfield, li.stepfield, div.stepfield
+	{mso-style-name:stepfield;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.panel, li.panel, div.panel
+	{mso-style-name:panel;
+	margin:7.5pt;
+	mso-pagination:widow-orphan;
+	background:#F0F0F0;
+	border:none;
+	mso-border-alt:solid #999999 .75pt;
+	padding:0cm;
+	mso-padding-alt:8.0pt 8.0pt 8.0pt 8.0pt;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.notemacro, li.notemacro, div.notemacro
+	{mso-style-name:notemacro;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	background:#FFFFCE;
+	border:none;
+	mso-border-alt:solid #F0C000 .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 0cm 0cm;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.warningmacro, li.warningmacro, div.warningmacro
+	{mso-style-name:warningmacro;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	background:#FFCCCC;
+	border:none;
+	mso-border-alt:solid #CC0000 .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 0cm 0cm;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.infomacro, li.infomacro, div.infomacro
+	{mso-style-name:infomacro;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	background:#D8E4F1;
+	border:none;
+	mso-border-alt:solid #6699CC .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 0cm 0cm;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.tipmacro, li.tipmacro, div.tipmacro
+	{mso-style-name:tipmacro;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	background:#DDFFDD;
+	border:none;
+	mso-border-alt:solid #009900 .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 0cm 0cm;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.informationmacropadding, li.informationmacropadding, div.informationmacro=
+padding
+	{mso-style-name:informationmacropadding;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.grid, li.grid, div.grid
+	{mso-style-name:grid;
+	margin-top:1.5pt;
+	margin-right:0cm;
+	margin-bottom:3.75pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.html5source-html5, li.html5source-html5, div.html5source-html5
+	{mso-style-name:"html5 source-html5";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.f1c, li.f1c, div.f1c
+	{mso-style-name:f1c;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.introtpadding, li.introtpadding, div.introtpadding
+	{mso-style-name:"intro tpadding";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.textll1, li.textll1, div.textll1
+	{mso-style-name:textll1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.example, li.example, div.example
+	{mso-style-name:example;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:738937711;
+	mso-list-template-ids:1061601672;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1427578849;
+	mso-list-template-ids:1834656822;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1462386080;
+	mso-list-template-ids:-1145560108;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:1699970326;
+	mso-list-template-ids:16132268;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:1704020154;
+	mso-list-template-ids:-1350546880;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:1941715403;
+	mso-list-template-ids:-1081339146;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6
+	{mso-list-id:1985115089;
+	mso-list-template-ids:-165613472;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l7
+	{mso-list-id:2047096605;
+	mso-list-template-ids:868356878;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!-- MS Word on Windows doesn't realise the encoding is UTF-8 u=
+nless this meta tag is present --><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=3Dwhite lang=3DEN-GB style=3D'tab-interval:36.0pt'>
+
+<div class=3DSection1>
+
+<h1><span style=3D'font-family:Arial'>HTML Tutorial - Introductory Level<o:=
+p></o:p></span></h1>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Introduction><span style=3D'font-fa=
+mily:
+Arial'>Introduction<o:p></o:p></span></h3>
+
+<p>HTML - Hypertext Markup Language is the main language for creating Web
+Pages, which was designed in such a way that code it can be drip fed to a
+browser from a web server slowly, allowing the browser to show what it
+currently had been given, which allowed the users of the website to see
+webpages before they had finished loading, which was imperative in the days
+when the web was very slow.&nbsp;HTML is written in the form of HTML elemen=
+ts
+consisting of <em><span style=3D'font-family:Arial'>tags</span></em> enclos=
+ed in <span
+class=3Dmw-redirect><span style=3D'font-family:Arial'>angle brackets</span>=
+</span>
+(like <code><span style=3D'font-size:10.0pt'>&lt;html&gt;</span></code>), w=
+ithin
+the web page content. HTML tags most commonly come in pairs like&nbsp;<code=
+><span
+style=3D'font-size:10.0pt'>&lt;h1&gt;</span></code> and <code><span
+style=3D'font-size:10.0pt'>&lt;/h1&gt;</span></code>, although some tags
+represent <em><span style=3D'font-family:Arial'>empty elements</span></em> =
+and so
+are unpaired, for example <code><span style=3D'font-size:10.0pt'>&lt;img /&=
+gt;</span></code>.
+The first tag in a pair is the <em><span style=3D'font-family:Arial'>start =
+tag</span></em>,
+and the second tag is the <em><span style=3D'font-family:Arial'>end tag</sp=
+an></em>
+(they are also called opening tags and closing tags). In between these tags=
+ web
+designers can add text, further tags, comments and other types of text-based
+content. The magical thing about HTML is that it's a very forgiving language
+that would let you away with quite a lot of code, in particular, your code
+didn't have to be well formed (i.e. you could create an opening tag and omit
+the closing tab and the browser would likely deal with this).&nbsp;The web
+browser does not actually display the HTML tags/code, it interprets them in=
+to
+visual or audible web pages. HTML elements form the building blocks of all
+websites. HTML allows <span class=3Dmw-redirect><span style=3D'font-family:=
+Arial'>images
+and objects (such as fields and buttons)</span></span> to be embedded and c=
+an
+be used to create attractive&nbsp;<span class=3Dmw-redirect><span
+style=3D'font-family:Arial'>interactive forms</span></span>. Beyond tags, y=
+ou can
+also embed logic scripts written in languages such as JavaScript which can =
+give
+you a great deal of interactive logical behavior in your web pages (JavaScr=
+ipt
+will be covered in a later tutorial). And lastly, you
+can&nbsp;embed&nbsp;stylesheets, which allow a great deal of control over t=
+he
+styling and layout of your webpage (stylesheets will be covered in the CSS
+tutorial). Putting that all together, the web has become very rich environm=
+ent
+where very clever and impressive application can now reside. In early 2000,=
+ a
+new web standard was introduced, which came under the name&nbsp;XHTML
+(Extensible Hypertext Markup Language), which is an XML based derivative of
+HTML. Under XHTML, webpages have become much more strict and need to be well
+formed for the browser to successfully interpret them correctly (i.e. an
+opening tag must have a matching closing tag). Though this department had b=
+een
+behind the curve of the recommended standards (largely&nbsp;because of
+browser&nbsp;restrictions within the NHS), it should be noted that the W3C
+(World Wide Web Consortium) have recommended XHTML over HTML since early
+January 2000 and with the upgrade to IE8 within the NHS, this is now also t=
+he
+departments recommendation for web applications. Whenever we talk about HTM=
+L,
+XHTML or HTML5, we will simply refer to it as HTML from now on, and you sho=
+uld
+adhere to the recommendations given to you in the departments coding standa=
+rds.</p>
+
+<p>Just a quick note on HTML5, which has been in development since 1999 and=
+ is
+currently in a useable state by most web browsers. We cannot use it for now=
+ I'm
+afraid! This department still uses IE8 as it's recommended browser, which h=
+as
+very little support for HTML5, thus we cannot yet recommend the use of HTML=
+5 at
+this time, but as soon as we overcome the IE8 barrier, we should be able to
+move forward with this.<o:p></o:p></p>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Basics><span style=3D'font-family:A=
+rial'>Basics<o:p></o:p></span></h3>
+
+<p>HTML markup consists of several key components, including <em><span
+style=3D'font-family:Arial'>elements</span></em> (and their <em><span
+style=3D'font-family:Arial'>attributes</span></em>), character-based <em><s=
+pan
+style=3D'font-family:Arial'>data types</span></em>, <em><span style=3D'font=
+-family:
+Arial'>character references</span></em> and <em><span style=3D'font-family:=
+Arial'>entity
+references</span></em>. Another important component is the <em><span
+style=3D'font-family:Arial'>document type declaration</span></em>, which tr=
+iggers
+<span class=3Dmw-redirect><span style=3D'font-family:Arial'>standards mode<=
+/span></span>
+rendering.</p>
+
+<p>The following is an example of the classic Hello world program, a common
+test employed for comparing programming languages, scripting languages and
+markup languages.&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;html&gt;<o:p></o:p></span></p=
+re><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp; </span>&l=
+t;head&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;title&gt;This is a title&lt;/title&gt;<o:p></o:p></span></pre=
+><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp; </span>&l=
+t;/head&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp; </span>&l=
+t;body&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;p&gt;Hello world!&lt;/p&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp; </span>&l=
+t;/body&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/html&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<div>
+
+<div><pre><i><br>
+<em><span style=3D'font-family:"Courier New"'>(The text between &lt;html&gt=
+; and &lt;/html&gt; describes the web page, and the text between &lt;body&g=
+t; and &lt;/body&gt; is the visible page content. </span></em><br>
+<em><span style=3D'font-family:"Courier New"'>The markup text '&lt;title&gt=
+;This is a title&lt;/title&gt;' defines the browser page title.)</span></em=
+></i><o:p></o:p></pre></div>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Elements><span style=3D'font-family=
+:Arial'>Elements<o:p></o:p></span></h3>
+
+<p class=3Dhtml5source-html5>In the HTML syntax, most elements are written =
+with a
+start tag and an end tag, with the content in between. An <strong><span
+style=3D'font-family:Arial'>HTML tag</span></strong> is composed of the nam=
+e of
+the element, surrounded by <span class=3Dmw-redirect><span style=3D'font-fa=
+mily:
+Arial'>angle brackets</span></span>. An end tag also has a slash after the
+opening angle bracket, to distinguish it from the start tag. For example, a
+paragraph, which is represented by the <code><span style=3D'font-size:10.0p=
+t'>p</span></code>
+element, would be written as</p>
+
+<div>
+
+<div>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;p&gt;In the HTML syntax, most=
+ elements are written ...&lt;/p&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+</div>
+
+<p class=3Dhtml5source-html5>However, not all of these elements <em><span
+style=3D'font-family:Arial'>require</span></em> the end tag, or even the st=
+art
+tag, to be present. Some elements, the so-called <em><span style=3D'font-fa=
+mily:
+Arial'>void elements</span></em>, do not have an end tag. A typical example=
+ is
+the <code><span style=3D'font-size:10.0pt'>br</span></code> element, which
+represents a significant <span class=3Dmw-redirect><span style=3D'font-fami=
+ly:Arial'>line
+break</span></span>, such as in a poem or an address. A void element's
+behaviour is predefined, and it can not contain any content or other elemen=
+ts.
+For example, the address of the dentist in Finding Nemo would be written as=
+</p>
+
+<div>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;p&gt;P. Sherman&lt;br&gt;42 W=
+allaby Way&lt;br&gt;Sydney&lt;/p&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;<o:p></o:p></p>
+
+</div>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Attributes><span style=3D'font-fami=
+ly:Arial'>Attributes<o:p></o:p></span></h3>
+
+<p class=3Dhtml5source-html5>HTML attributes&nbsp;inform the browser how to
+render an HTML element. As an HTML tag is processed, the web browser looks =
+at
+these attributes as guides for the construction of web elements. Without any
+attribute values specified, the browser will render the element using the
+default settings. The <em><span style=3D'font-family:Arial'>title</span></e=
+m>
+attribute titles an HTML element and adds a tiny text pop-up to any HTML
+element, offering&nbsp;web viewers a tool-tip mechanism where information c=
+an
+be found or where a&nbsp;description of an HTML element can be seen. As the
+mouse hovers over the element with the title attribute, a tool tip is
+displayed, giving the viewer an extra piece of information. Add the followi=
+ng
+code to the a HTML page and view the page in the browser. When hovering over
+the Title Heading text a tool tip is displayed with the word Hello.</p>
+
+<div>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;h2 title=3D&quot;Hello&quot;&=
+gt;Title Heading&lt;/h2&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+<p class=3Dhtml5source-html5>HTML attributes,&nbsp;used to be the primary s=
+ource
+for the&nbsp;customisation of web elements, but they have now been consider=
+ably
+replaced by Cascading Style Sheets (CSS). Since most HTML attributes are now
+deprecated, they should be avoided when possible. Nonetheless, having an
+understanding of HTML attributes will assist web development using Cascading
+Style Sheets.&nbsp;<o:p></o:p></p>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Links><span style=3D'font-family:Ar=
+ial'>Links<o:p></o:p></span></h3>
+
+<p class=3Dhtml5source-html5>Links are a fundimental part of web development
+allowing documents to be linked together easily&nbsp;and the whole concept =
+of
+World Wide Web.&nbsp;A link in HTML documents can be considered as a refere=
+nce
+to another resource. This reference establishes an relationship between the
+referring document and the linked document. Links can be classified as visu=
+al
+(placed in between the document's content) or hidden (defining general
+relational information).</p>
+
+<p class=3Dhtml5source-html5>The&nbsp;HTML &lt;a&gt; element can be used to
+insert links inside the content of a document. This will help users to navi=
+gate
+from page to page in an application, most times, access by clicking on the
+linked content. The linked content is just the content of the&nbsp;&lt;a&gt;
+element. There are many ways to build a link, but a basic link must contain=
+ at
+least a content and the address of the resource (defined with the
+&quot;href&quot; attribute). In the example below we'll define a basic link=
+. In
+the example&nbsp;below we made a&nbsp;link using text as content, but you c=
+an
+actually link almost anything using the &lt;a&gt; element.&nbsp;Links&nbsp;=
+can
+be made using almost anything including images and buttons.&nbsp;&nbsp;</p>
+
+<div>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;a href=3D&quot;http://www.w3S=
+chools.com&quot;&gt;Click this link for HTML Tutorial&lt;a&gt;<o:p></o:p></=
+span></pre></div>
+
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+<p class=3Dhtml5source-html5>The target attribute allows developers to deci=
+de
+where the resource linked through the&nbsp;&lt;a&gt; element&nbsp;must be
+loaded (e.g., it can be loaded in a new browser window, in a specific frame=
+ if
+there is a frame set page or simply in the same window).&nbsp;The&nbsp;exam=
+ple
+below shows the code for two links: the first is opened in a new window and=
+ the
+second in a frame named &quot;main&quot;.</p>
+
+<div>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;a href=3Dhttp://www.w3Schools=
+.com target=3D&quot;_blank&quot;&gt;Click link to open in a new window.&lt;=
+a&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;a href=3Dhttp://www.w3Schools.com target=3D&q=
+uot;_main&quot;&gt;Click link to open in a main frame.&lt;a&gt;<o:p></o:p><=
+/span></pre><pre><span
+style=3D'font-size:9.0pt'><o:p>&nbsp;</o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><o:p>&nbsp;</o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><o:p>&nbsp;</o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><o:p>&nbsp;</o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+<p class=3Dhtml5source-html5><a name=3Dthe-html-link-tag></a>The HTML link =
+tag -
+This type of link defines relational information for the document, that is
+usually&nbsp;not displayed&nbsp;in browser, but can provide information for
+other&nbsp;uses like search engines. For example, the&nbsp;HTML link tag may
+refer to a document that acts as an index for this document or point to a f=
+ile
+that&nbsp;stores the style sheets classes. The example below&nbsp;shows tags
+providing this link information. A document&nbsp;containing style
+sheet&nbsp;classes and a document that holds javascript functions.</p>
+
+<p class=3Df1c>&nbsp;</p>
+
+<div>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;head&gt;<o:p></o:p></span></p=
+re><pre><span
+style=3D'font-size:9.0pt'>&lt;link rel=3D&quot;validation&quot; href=3D&quo=
+t;index.js&quot; /&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;link type=3D&quot;text/css&quot; href=3D&quot=
+;basic.css&quot; /&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/head&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;&nbsp;&nbsp;<o:p></o:p></p>
+
+</div>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-CSS><span style=3D'font-family:Aria=
+l'>CSS<o:p></o:p></span></h3>
+
+<p class=3Dintrotpadding>HTML&nbsp;and CSS&nbsp;are two of the core technol=
+ogies
+for building Web pages. HTML provides the <em><span style=3D'font-family:Ar=
+ial'>structure</span></em>
+of the page, CSS the visual <em><span style=3D'font-family:Arial'>layout,</=
+span></em>
+for a variety of devices. Along with graphics and scripting, HTML and CSS a=
+re
+the basis of building Web pages and Web Applications. CSS is the language f=
+or
+describing the presentation of Web pages, including colours, layout, and fo=
+nts.
+It allows&nbsp;developers to adapt the presentation to different&nbsp;devic=
+es,
+such as large screens, small screens, or printers. CSS is independent of HT=
+ML
+and can be used with any XML-based markup language. The separation of HTML =
+from
+CSS makes it easier to maintain sites, share style sheets across pages, and
+tailor pages to different environments.&nbsp;</p>
+
+<p class=3Df1c>There are three ways of inserting a style sheet:</p>
+
+<div>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo1;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>External style sheet - An external style sheet is ideal when the
+     style is applied to many pages. With an external style sheet, you can
+     change the look of an entire Web site by changing one file. Each page =
+must
+     link to the style sheet using the &lt;link&gt; tag.<o:p></o:p></span><=
+/li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo1;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>Internal style sheet - An internal style sheet should be used w=
+hen
+     a single document has a unique style. You define internal styles in the
+     head section of an HTML page, by using the &lt;style&gt; tag.<o:p></o:=
+p></span></li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo1;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>Inline style - To use inline styles you use the style attribute=
+ in
+     the relevant tag. The style attribute can contain any CSS property.<o:=
+p></o:p></span></li>
+</ul>
+
+</div>
+
+<p class=3Dhtml5source-html5>For further information on CSS please compete =
+CSS
+training tutorial.<o:p></o:p></p>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Tables><span style=3D'font-family:A=
+rial'>Tables<o:p></o:p></span></h3>
+
+<p class=3Dhtml5source-html5>HTML <em><span style=3D'font-family:Arial'>tab=
+les</span></em>
+are still best known for being used and abused to <em><span style=3D'font-f=
+amily:
+Arial'>lay out</span></em> pages.&nbsp;The correct use for tables is to do
+exactly what you would expect a table to do - to <em><span style=3D'font-fa=
+mily:
+Arial'>structure tabular data</span></em>.&nbsp;</p>
+
+<p class=3Dhtml5source-html5><span class=3Dtextll><span style=3D'font-famil=
+y:Arial'>The
+basic structure of an HTML table consists of the following tags:</span></sp=
+an></p>
+
+<div>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l1 level1 lfo2;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>Table tags:&nbsp; <strong><span style=3D'font-family:Arial'>&lt=
+;TABLE&gt;
+     &lt;/TABLE&gt;</span></strong><o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l1 level1 lfo2;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>Row tags:&nbsp;&nbsp; <strong><span style=3D'font-family:Arial'=
+>&lt;TR&gt;
+     &lt;/TR&gt; </span></strong><o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l1 level1 lfo2;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>Cell tags:&nbsp;<strong><span style=3D'font-family:Arial'>&nbsp=
+;&nbsp;
+     &lt;TD&gt;</span></strong> <strong><span style=3D'font-family:Arial'>&=
+lt;/TD&gt;
+     </span></strong><o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<p><span class=3Dtextll><span style=3D'font-family:Arial'>Constructing an H=
+TML
+table consists of describing the table between the beginning table tag, </s=
+pan></span><strong><span
+style=3D'font-family:Arial'>&lt;TABLE&gt;</span></strong><span class=3Dtext=
+ll><span
+style=3D'font-family:Arial'>, and the ending table table tag, </span></span=
+><strong><span
+style=3D'font-family:Arial'>&lt;/TABLE&gt;</span></strong><span class=3Dtex=
+tll><span
+style=3D'font-family:Arial'>. Between these tags, you then construct each r=
+ow and
+each cell in the row. To do this, you would first start the row with the
+beginning row tag, </span></span><strong><span style=3D'font-family:Arial'>=
+&lt;TR&gt;</span></strong><span
+class=3Dtextll><span style=3D'font-family:Arial'>, and then build the row by
+creating each cell with the beginning cell tag, </span></span><strong><span
+style=3D'font-family:Arial'>&lt;TD&gt;</span></strong><span class=3Dtextll>=
+<span
+style=3D'font-family:Arial'>, adding the data for that cell, and then closi=
+ng the
+cell with the ending cell tag, </span></span><strong><span style=3D'font-fa=
+mily:
+Arial'>&lt;/TD&gt;</span></strong><span class=3Dtextll><span style=3D'font-=
+family:
+Arial'>. When you finish all of the cells for a row, you would then close t=
+he
+row with the ending row tag, </span></span><strong><span style=3D'font-fami=
+ly:
+Arial'>&lt;/TR&gt;</span></strong><span class=3Dtextll><span style=3D'font-=
+family:
+Arial'>.Then, for each new row, you would repeat the process of beginning t=
+he
+row, building each cell in the row, and closing the row.</span></span></p>
+
+<p><span class=3Dtextll><span style=3D'font-family:Arial'>The following tab=
+le is an
+example of a basic table with three rows and two columns of data.&nbsp; </s=
+pan></span></p>
+
+<div>
+
+<table class=3DMsoNormalTable border=3D0 cellpadding=3D0 style=3D'mso-cells=
+pacing:1.5pt'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 1<o:p></o:p><=
+/span></p>
+  </td>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 2<o:p></o:p><=
+/span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 3<o:p></o:p><=
+/span></p>
+  </td>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 4<o:p></o:p><=
+/span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 5<o:p></o:p><=
+/span></p>
+  </td>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 6<o:p></o:p><=
+/span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p><span class=3Dtextll><span style=3D'font-family:Arial'>The example below=
+ shows
+the code for building the above table:</span></span><strong><span
+style=3D'font-family:Arial'>&nbsp;</span></strong>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;TABLE&gt;<o:p></o:p></span></=
+pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 1&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 2&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;/TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 3&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'> <span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;</span>&lt;TD&gt;Data 4&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;/TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 5&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 6&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;/TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/TABLE&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p class=3Dtextll1>This table above&nbsp;contains no border, title, or
+headings.&nbsp; If you wish to add any of these elements to your table, you
+need to include additional HTML code.&nbsp;In addition to the basic table t=
+ags,
+several options are available for adding additional elements to your table.=
+ For
+example, if you add a border, title, and column headings to the table above,
+the table would then resemble the following:&nbsp;</p>
+
+<div>
+
+<table class=3DMsoNormalTable border=3D0 cellpadding=3D0 style=3D'mso-cells=
+pacing:1.5pt'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3Dtextll1 align=3Dcenter style=3D'text-align:center'><strong><sp=
+an
+  style=3D'font-family:Arial'>table title</span></strong><b><o:p></o:p></b>=
+</p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-family:Arial'>Column A<o:p></o:p></span></b></p>
+  </td>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  style=3D'font-family:Arial'>Column B<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 1<o:p></o:p><=
+/span></p>
+  </td>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 2<o:p></o:p><=
+/span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 3<o:p></o:p><=
+/span></p>
+  </td>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 4<o:p></o:p><=
+/span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 5<o:p></o:p><=
+/span></p>
+  </td>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <p class=3DMsoNormal><span style=3D'font-family:Arial'>Data 6<o:p></o:p><=
+/span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p><span class=3Dtextll><span style=3D'font-family:Arial'>The example below=
+ shows
+the code for building the above table with a&nbsp;table title, and Column A=
+ and
+Column B headings:</span></span></p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;TABLE<span style=3D'mso-space=
+run:yes'>&nbsp; </span>BORDER=3D&quot;5&quot;&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TH COLSPAN=3D&quot;2&quot;&gt;<o:p></o:p></span><=
+/pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</=
+span>&lt;H3&gt;&lt;BR&gt;TABLE TITLE&lt;/H3&gt;<o:p></o:p></span></pre><pre=
+><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;/TH&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;/TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TH&gt;Column A&lt;/TH&gt;<o:p></o:p></span></pre>=
+<pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TH&gt;Column B&lt;/TH&gt;<o:p></o:p></span></pre>=
+<pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 1&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 2&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;/TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 3&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 4&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;/TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; </span>&lt;TD&gt;Data 5&lt;/TD&gt;<o:p></o:p></span></pre><p=
+re><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span>&lt;TD&gt;Dat=
+a 6&lt;/TD&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </s=
+pan>&lt;/TR&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'> &lt;/TABLE&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+<p class=3Dtextll1>Notice that the beginning table tag, <strong><span
+style=3D'font-family:Arial'>&lt;TABLE&gt;</span></strong>, now includes the
+border tag, <strong><span style=3D'font-family:Arial'>BORDER=3D&quot;5&quot=
+;</span></strong>,
+which places a border around the table and frames each cell. The number that
+you give to the border tag, <strong><span style=3D'font-family:Arial'>BORDE=
+R=3D</span></strong><em><span
+style=3D'font-family:Arial'>n</span></em>, sets the width of the table bord=
+er.</p>
+
+<p class=3Dtextll1>To add a title to your table, you would place the title =
+and
+the attributes of that title between the row commands, <strong><span
+style=3D'font-family:Arial'>&lt;TR&gt;</span></strong> and <strong><span
+style=3D'font-family:Arial'>&lt;/TR&gt;</span></strong>. The heading code, =
+<strong><span
+style=3D'font-family:Arial'>&lt;TH&gt;</span></strong> and <strong><span
+style=3D'font-family:Arial'>&lt;/TH&gt;</span></strong>, define a heading c=
+ell
+and, by default,&nbsp;this code&nbsp;centers the heading and set it in
+bold.&nbsp; However, if you want the title to span across the columns below=
+ it,
+you need to include the <strong><span style=3D'font-family:Arial'>COLSPAN=
+=3D</span></strong><em><span
+style=3D'font-family:Arial'>n</span></em> code. Since this table has two co=
+lumns,
+the <strong><span style=3D'font-family:Arial'>COLSPAN=3D&quot;2&quot;</span=
+></strong>
+code was necessary. To add emphasis to the header, you can use the header
+commands to make the text larger. In this table, notice that the <strong><s=
+pan
+style=3D'font-family:Arial'>&lt;H3&gt;</span></strong> and <strong><span
+style=3D'font-family:Arial'>&lt;/H3&gt;</span></strong> commands made the t=
+itle
+larger.</p>
+
+<p class=3Dtextll1>The individual column headings are also described by the
+heading codes, <strong><span style=3D'font-family:Arial'>&lt;TH&gt;</span><=
+/strong>
+and <strong><span style=3D'font-family:Arial'>&lt;/TH&gt;</span></strong>. =
+Since
+this code, by default, center the heading and set it in bold, no additional
+commands or attributes were included in the heading commands.</p>
+
+<p class=3Dtextll1>To give your table a more polished look, you can include
+commands that will adjust the size of your table, add space in the cell, add
+space between rows, and align the data in a cell.</p>
+
+<p class=3Dtextll1><span class=3Dtextll><span style=3D'font-family:Arial'>S=
+ome of the
+commands that enable you to customize your table include:</span></span></p>
+
+<div>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l7 level1 lfo3;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>The <strong><span style=3D'font-family:Arial'>WIDTH=3D</span></=
+strong><em><span
+     style=3D'font-family:Arial'>n</span></em><strong><span style=3D'font-f=
+amily:
+     Arial'>%</span></strong> command sets the width of your table as a
+     percentage of the screen.&nbsp; The letter <em><span style=3D'font-fam=
+ily:
+     Arial'>n</span></em>&nbsp;designates the percentage that you assign to
+     this command.&nbsp; For example, if you want the width of your table t=
+o be
+     one half the width of the screen, you would include the <strong><span
+     style=3D'font-family:Arial'>WIDTH=3D&quot;50%&quot;</span></strong> co=
+mmand in
+     the beginning table command.&nbsp;<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l5 level1 lfo4;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>The <strong><span style=3D'font-family:Arial'>CELLPADDING=3D</s=
+pan></strong><em><span
+     style=3D'font-family:Arial'>n</span></em> command adjusts the vertical
+     dimension of the cells.&nbsp; The letter <em><span style=3D'font-famil=
+y:
+     Arial'>n</span></em>&nbsp;designates the numerical value that you assi=
+gn
+     to this command.<o:p></o:p></span></li>
+</ul>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l3 level1 lfo5;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>The <strong><span style=3D'font-family:Arial'>CELLSPACING=3D</s=
+pan></strong><em><span
+     style=3D'font-family:Arial'>n</span></em> command sets the space or bo=
+rder
+     around the cells.&nbsp; The letter <em><span style=3D'font-family:Aria=
+l'>n</span></em>&nbsp;designates
+     the numerical value that you assign to this command.<o:p></o:p></span>=
+</li>
+</ul>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo6;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>The <strong><span style=3D'font-family:Arial'>ALIGN=3D</span></=
+strong>(LEFT,
+     RIGHT, or CENTER) command will horizontally align the data in a
+     cell.&nbsp; For example, if you wish to place the data in the center of
+     each cell in a row, you would include the <strong><span style=3D'font-=
+family:
+     Arial'>ALIGN=3DCENTER</span></strong> command within the row command.&=
+nbsp;<o:p></o:p></span></li>
+</ul>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo7;tab-stops:list 36.0pt'><span style=3D'font-fam=
+ily:
+     Arial'>The <strong><span style=3D'font-family:Arial'>VALIGN=3D</span><=
+/strong>(TOP,
+     MIDDLE, or BOTTOM) command will vertically align the data in a cell.&n=
+bsp;
+     For example, if you wish to place the data in the center of each cell =
+in a
+     row, you would include the <strong><span style=3D'font-family:Arial'>A=
+LIGN=3DMIDDLE</span></strong>
+     command within the row command.&nbsp;<o:p></o:p></span></li>
+</ul>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Layout><span style=3D'font-family:A=
+rial'>Layout<o:p></o:p></span></h3>
+
+<p>Web page layout is very important to give better look to your
+website.&nbsp;Design your webpage layout very carefully. Although we can
+achieve pretty nice layouts with HTML tables, tables weren't really designe=
+d as
+a layout tool. Tables are more suited to presenting tabular data.</p>
+
+<p>The div element is a block level element used for grouping HTML elements.
+Once grouped, formatting can be applied to the div element and everything
+contained within it. While the div tag is a block-level element, the HTML s=
+pan
+element is used for grouping elements at an inline level.</p>
+
+<p>The HTML Div Tag is a container for other HTML elements. Within HTML
+development the HTML Div Tag is used to layout HTML elements on a page, and=
+ can
+be used to group HTML Elements together.</p>
+
+<p>The following shows how to use the div tag to layout your web page.<code=
+><span
+style=3D'font-size:10.0pt'>&nbsp;</span></code></p>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;html&gt; <o:p></o:p></span></=
+pre><pre><span
+style=3D'font-size:9.0pt'>&lt;body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>Hello World <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/html&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;If you run this code in the bowseryou will see that the web page
+displays 'Hello World' on one line.</p>
+
+<p>Now try adding div tags around the 'Hello World' as below.<code><span
+style=3D'font-size:10.0pt'>&nbsp;</span></code></p>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;html&gt; <o:p></o:p></span></=
+pre><pre><span
+style=3D'font-size:9.0pt'>&lt;body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;div&gt;Hello World&lt;/div&gt; <o:p></o:p></s=
+pan></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/html&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;If you run this code in the browser you can see that this also
+displays 'Hello World' on one line.<br>
+<br>
+Now Add 'Hello' in one div tag and 'World' in another as&nbsp; below.<code>=
+<span
+style=3D'font-size:10.0pt'>&nbsp;</span></code></p>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;html&gt; <o:p></o:p></span></=
+pre><pre><span
+style=3D'font-size:9.0pt'>&lt;body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;div&gt;Hello&lt;/div&gt; <o:p></o:p></span></=
+pre><pre><span
+style=3D'font-size:9.0pt'>&lt;div&gt;World&lt;/div&gt; <o:p></o:p></span></=
+pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/html&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>As you can see the divs have changed the layout of the web page! Hello is
+now above World.<o:p></o:p></p>
+
+<h4 id=3DHTMLTutorial-IntroductoryLevel-AddingStylingtoaDiv><span
+style=3D'font-family:Arial'>Adding Styling to a Div<o:p></o:p></span></h4>
+
+<p>This is done by adding style=3D&#8221;border: 1px solid red;&#8221; to b=
+oth
+the div's. Lets add a red border to one html div and a green border to the
+other, so go ahead and add style=3D&#8221;border: 1px solid red;&#8221; as =
+an
+attribute in the first div and style=3D&#8221;border: 1px solid green;&#822=
+1; as
+an attribute in the second div.<br>
+<br>
+Your code should look&nbsp;something like below.<code><span style=3D'font-s=
+ize:
+10.0pt'>&nbsp;</span></code></p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;html&gt; <o:p></o:p></span></=
+pre><pre><span
+style=3D'font-size:9.0pt'>&lt;body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;div style=3D&quot;border: 1px solid red;&quot=
+;&gt;Hello&lt;/div&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;div style=3D&quot;border: 1px solid green;&qu=
+ot;&gt;World&lt;/div&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/body&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/html&gt;<o:p></o:p></span></pre></div>
+
+</div>
+
+<p>If you run this code in the browser you should get 'Hello' with a red bo=
+rder
+round it and 'World' with a green border.</p>
+
+<p>For a more in-depth description of styling your web-page please see the =
+CSS
+tutorial.<o:p></o:p></p>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Forms><span style=3D'font-family:Ar=
+ial'>Forms<o:p></o:p></span></h3>
+
+<p>An HTML form is a section of a document containing normal content, marku=
+p,
+special elements called <em><span style=3D'font-family:Arial'>controls</spa=
+n></em>
+(checkboxes, radio buttons, select options, etc.), and labels on those
+controls. Users generally complete a form by modifying its controls (enteri=
+ng
+text, selecting items, etc.), before submitting the form&nbsp;for processin=
+g.</p>
+
+<p class=3Dexample>Please see code below for a simple form that includes la=
+bels,
+radio buttons, and&nbsp;a submit&nbsp;button:</p>
+
+<div>
+
+<p>&nbsp;</p>
+
+<div>
+
+<div><pre><span style=3D'font-size:9.0pt'>&lt;FORM action=3D&quot;user_deta=
+ils.cfm&quot; method=3D&quot;post&quot;&gt;<o:p></o:p></span></pre><pre><sp=
+an
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp; </span>&l=
+t;P&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;LABEL for=3D&quot;firstname&quot;&gt;First name: &lt;/LA=
+BEL&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;INPUT type=3D&quot;text&quot; id=3D&quot;firstname&quot;=
+&gt;&lt;BR&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;LABEL for=3D&quot;lastname&quot;&gt;Last name: &lt;/LABE=
+L&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;INPUT type=3D&quot;text&quot; id=3D&quot;lastname&quot;&=
+gt;&lt;BR&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;LABEL for=3D&quot;email&quot;&gt;email: &lt;/LABEL&gt; <=
+o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;INPUT type=3D&quot;text&quot; id=3D&quot;email&quot;&gt;=
+&lt;BR&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;INPUT type=3D&quot;radio&quot; name=3D&quot;sex&quot; va=
+lue=3D&quot;Male&quot;&gt; Male&lt;BR&gt;<span style=3D'mso-spacerun:yes'>&=
+nbsp; </span><o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;INPUT type=3D&quot;radio&quot; name=3D&quot;sex&quot; va=
+lue=3D&quot;Female&quot;&gt; Female&lt;BR&gt;<o:p></o:p></span></pre><pre><=
+span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;LABEL for=3D&quot;healthboard&quot;&gt;Healthboard: &lt;/LABE=
+L&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;SELECT&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;OPTION value=3D&quot;volvo&quot;&gt;Tayside&lt;/OPTION &gt;<o=
+:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;OPTION value=3D&quot;saab&quot;&gt;Fife&lt;/OPTION &gt;<o:p><=
+/o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;OPTION value=3D&quot;mercedes&quot;&gt;D&amp;G&lt;/OPTION &gt=
+;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;OPTION value=3D&quot;audi&quot;&gt;Lanarkshire&lt;/OPTION &gt=
+;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>&lt;/SELECT&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;INPUT type=3D&quot;submit&quot; value=3D&quot;Add User&q=
+uot;&gt; <o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;</span>&lt;INPUT type=3D&quot;reset&quot;&gt; <o:p></o:p></span></p=
+re><pre><span
+style=3D'font-size:9.0pt'><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</sp=
+an>&lt;/P&gt;<o:p></o:p></span></pre><pre><span
+style=3D'font-size:9.0pt'>&lt;/FORM&gt; <o:p></o:p></span></pre></div>
+
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+<p class=3Dexample>&nbsp;<span class=3Dindex-def><span style=3D'font-family=
+:Arial'>Users
+interact with forms through named controls, the following list give details=
+ of
+HTML control types</span></span>:</p>
+
+<p class=3Dexample><a name=3Dbuttons></a><strong><span style=3D'font-family=
+:Arial'>buttons</span></strong></p>
+
+<p class=3Dexample>There are&nbsp;three types of buttons:<o:p></o:p></p>
+
+<div>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l0 level1 lfo8;tab-stops:list 36.0pt'><span title=3D"submit b=
+utton"><a
+     name=3Dsubmit-button></a><span class=3Dindex-def><span style=3D'font-f=
+amily:
+     Arial'>submit buttons</span></span></span><span style=3D'font-family:A=
+rial'>:
+     When activated, a submit button submits a form. A form may contain more
+     than one submit button.<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l0 level1 lfo8;tab-stops:list 36.0pt'><span title=3D"reset bu=
+tton"><a
+     name=3Dreset-button></a><span class=3Dindex-def><span style=3D'font-fa=
+mily:Arial'>reset
+     buttons</span></span></span><span style=3D'font-family:Arial'>: When
+     activated, a reset button resets all controls to their initial values.=
+<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l0 level1 lfo8;tab-stops:list 36.0pt'><span title=3D"push but=
+ton"><a
+     name=3Dpush-button></a><span class=3Dindex-def><span style=3D'font-fam=
+ily:Arial'>push
+     buttons</span></span></span><span style=3D'font-family:Arial'>: Push b=
+uttons
+     have no default behavior. Each push button may have client-side scripts
+     associated with the element's event attributes. When an event occurs
+     (e.g., the user presses the button, releases it, etc.), the associated
+     script is triggered.<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<p>Buttons are created&nbsp;with the&nbsp;<samp>BUTTON&nbsp;</samp>element =
+or
+the&nbsp;<samp>INPUT&nbsp;</samp>element.<o:p></o:p></p>
+
+<p><span title=3Dcheckbox><strong><span style=3D'font-family:Arial'>checkbo=
+xes</span></span></strong><o:p></o:p></p>
+
+<p><span title=3Dcheckbox><span class=3Dindex-def><span style=3D'font-famil=
+y:Arial'>&nbsp;</span></span></span>Checkboxes
+(and radio buttons) are on/off switches that may be selected by the user. A
+switch is &quot;on&quot; when the control element's&nbsp;<samp>checked&nbsp=
+;</samp>attribute
+is set. When a form is submitted, only &quot;on&quot; checkbox controls are=
+ submitted
+in the form variable scope.</p>
+
+<p>Several checkboxes in a form may share the same control name. For exampl=
+e,
+checkboxes allow users to select several values for the same property.
+The&nbsp;<samp>INPUT&nbsp;</samp>element is used to create a checkbox contr=
+ol.<o:p></o:p></p>
+
+<p><span title=3D"radio button"><a name=3Dradio></a><strong><span style=3D'=
+font-family:
+Arial'>radio buttons</span></span></strong><o:p></o:p></p>
+
+<p><span title=3D"radio button"><span class=3Dindex-def><span style=3D'font=
+-family:
+Arial'>&nbsp;</span></span></span>Radio buttons are like checkboxes except =
+that
+when several share the same control name, they are mutually exclusive: when=
+ one
+is selected, all others with the same name are switched deselected. The&nbs=
+p;<samp>INPUT&nbsp;</samp>element
+is used to create a radio button control.If no radio button in a set sharing
+the same control name is initially selected, user&nbsp;behavior for choosing
+which control is initially&nbsp;selected is undefined. At all times, exactly
+one of the radio buttons in a set is checked. If none of the &lt;INPUT&gt;
+elements of a set of radio buttons specifies `CHECKED', then the user must
+check the first radio button of the set initially.<o:p></o:p></p>
+
+<p><span title=3D"hidden control"><a name=3Dhidden-control></a><strong><span
+style=3D'font-family:Arial'>hidden controls</span></span></strong></p>
+
+<p>Hidden controls&nbsp;may be created, hidden&nbsp;controls that are not
+rendered but&nbsp;the values are submitted with a form.&nbsp;This control i=
+s&nbsp;generally
+used&nbsp;to store information between client/server exchanges that would
+otherwise be lost due to the stateless nature of HTTP. The&nbsp;<samp>INPUT=
+&nbsp;</samp>element
+is used to create a hidden control.<o:p></o:p></p>
+
+<div>
+
+<p><strong><i><span style=3D'font-family:Arial'><span title=3D"hidden contr=
+ol">Select
+controls</span></span></i></strong><o:p></o:p></p>
+
+<p><span class=3Dindex-def><i><span style=3D'font-family:Arial'><span
+title=3D"hidden control">&nbsp;</span></span></i></span>&nbsp;The&nbsp;<sam=
+p>SELECT&nbsp;</samp>element
+creates a list of options. Each choice offered by the&nbsp;list is represen=
+ted
+by an&nbsp;<samp>OPTION&nbsp;</samp>element. A&nbsp;<samp>SELECT&nbsp;</sam=
+p>element
+must contain at least one&nbsp;<samp>OPTION&nbsp;</samp>element.&nbsp;Zero =
+or
+more&nbsp; choices may be pre-selected for the user.&nbsp;If no&nbsp;<samp>=
+OPTION&nbsp;</samp>element
+has the selected&nbsp;attribute set, the behavior for choosing which option=
+ is
+initially selected is undefined. If one&nbsp;<samp>OPTION&nbsp;</samp>eleme=
+nt
+has the&nbsp;<samp>selected&nbsp;</samp>attribute set, it should be
+pre-selected.&nbsp;<o:p></o:p></p>
+
+</div>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-JavaScript><span style=3D'font-fami=
+ly:Arial'>JavaScript<o:p></o:p></span></h3>
+
+<p>What is JavaScript? -&nbsp;<span style=3D'color:#333333'>&nbsp;HTML is a
+markup language designed for defining static web page content. JavaScript i=
+s a
+programming language designed for performing dynamic tasks. Sometimes the
+distinction is confusing because JavaScript code can go in the same file as
+HTML.&nbsp;<em><b><span style=3D'font-family:Arial'>JavaScript is a scripti=
+ng
+language</span></b></em> designed for adding interactivity to Web pages and
+creating Web applications.&nbsp;<em><b><span style=3D'font-family:Arial'>Cl=
+ient-side</span></b></em>
+JavaScript programs, or scripts, can be embedded directly in HTML
+pages.&nbsp;Javascript code may run when the user opens the Web page, click=
+s or
+drags some page element with the mouse, types something on the keyboard,
+submits a form, or leaves the page. </span>For further information on
+JavaScript please compete&nbsp;JavaScript training tutorial.<span
+style=3D'color:#333333'>.</span><o:p></o:p></p>
+
+<h3 id=3DHTMLTutorial-IntroductoryLevel-Summary><span style=3D'font-family:=
+Arial'>Summary<o:p></o:p></span></h3>
+
+<p>This tutorial&nbsp;has helped you to learn the basics of HTML and how to
+create a page&nbsp;using DIVs to format your page and also to use tables to
+display tabular data.&nbsp;&nbsp;You should also&nbsp;now&nbsp;know the bas=
+ics
+of building a form and each control&nbsp;that&nbsp;can be used within a for=
+m.
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
